@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "cc99a50c-bf86-4366-9244-3d61bc2550b3",
+		"name": "Aula1-Pokemon",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "39316529"
+	},
+	"item": [
+		{
+			"name": "LocalizaPokémonSucesso",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "NãoLocalizaPokémonNãoExiste",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "EndPointFalhoLocalizaPokémon",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
